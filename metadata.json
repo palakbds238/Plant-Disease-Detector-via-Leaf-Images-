@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Plant Disease Detector",
+  "description": "An AI-powered web application that helps identify plant diseases from leaf images. Upload a photo of a plant leaf, and the app will diagnose potential diseases, suggest causes, and provide treatment recommendations.",
+  "requestFramePermissions": []
+}
